@@ -40,5 +40,5 @@ This plugin provides universal chat and console commands. When using a command i
 ```
 ## Credits
 
-- **Wulf**, the original author of this plugin
-- **Krungh Crow**, current maintainer
+- **Wulf**, The original author of this plugin
+- **Krungh Crow**, Current maintainer
